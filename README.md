@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gentveseli1
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently working with Angular
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 'gent.veseli1@gmail.com'
 
